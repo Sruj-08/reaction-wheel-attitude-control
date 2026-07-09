@@ -1,7 +1,11 @@
 build/
 install/
 log/
+
 __pycache__/
 *.pyc
 .vscode/
+
+frames*.pdf
+frames*.gv
 
